@@ -23,7 +23,7 @@
     "painterly-textures": "0.0.3",
     "toolbar": "git://github.com/kumavis/toolbar.git",
     "javascript-editor": "git://github.com/kumavis/javascript-editor.git",
-    "voxel-rescue": "git://github.com/monstercat/voxel-rescue.git",
+    "voxel-rescue": "git://github.com/flyswatter/voxel-rescue.git",
     "voxel-server": "git://github.com/kumavis/node-warrior-server.git",
     "voxel-client": "git://github.com/kumavis/node-warrior-client.git",
     "voxel": "~0.3.1"
